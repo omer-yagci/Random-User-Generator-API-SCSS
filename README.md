@@ -1,10 +1,9 @@
-# Pokedex-with-SASS-SCSS
+# Random-User-Generator
 
 
 ## Welcome! 👋
 
-Thanks to visit my Github! In this project, I used HTML, CSS and JavaScript. This project created with flexbox. I used "Pokedex API". To get data from api, i used fecth method with async-await. For search bar, i checked all poke names if matches or not. 
-
+Thanks to visit my Github! In this project, I used HTML, CSS and JavaScript. This project created with flexbox. I used "Random User Generator API". To get data from API, I used fecth method with async-await. 
 **To do this project, i used HTML5, CSS(SCSS) and JavaScript.I used async-await to fetch data.**
 
 ## The challenge
